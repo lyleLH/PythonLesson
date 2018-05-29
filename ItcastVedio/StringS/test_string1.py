@@ -33,8 +33,6 @@ mystr.startswith("hello")
 mystr.isalnum()#至少一个数字，所有字符都是字母或者数字
 mystr.isalpha()#至少一个字符，所有字符都为字母
 
-#只包含十进制数字
-mystr.isdecimal()
 
 #字符全为大、小写
 mystr.isupper()
