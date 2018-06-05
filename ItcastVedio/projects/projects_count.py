@@ -8,17 +8,10 @@ def mostCommonWords(fileSource):
     pattern =r'''[A-Za-z]+|\$?\d+%?$'''
     with open(fileSource) as f:
         r = re.findall(pattern,f.read())
-        list = Counter(r).most_common()
-
-        for dic in list:
-            print("单词:%s"%dic[0]+"\n"+"出现次数:%s"%dic[1]+"\n")
-            # for key in dic:
-                # print(key ,dic[key])
-            # print(dic)
-        #     for key in dic:
-        #         print(key,str(dic[key]))
-    return list
+        print(r)
+        print("*"*30)
+    return Counter(r).most_common()
 
 if __name__ == "__main__":
     # print()
-    mostCommonWords(FILESOURCE)
+    print(mostCommonWords(FILESOURCE))

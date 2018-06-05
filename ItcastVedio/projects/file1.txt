@@ -1,0 +1,14 @@
+As Facebook sought to become the world’s dominant social media service, it struck agreements allowing phone and other device makers access to vast amounts of its users’ personal information.
+
+Facebook has reached data-sharing partnerships with at least 60 device makers — including Apple, Amazon, BlackBerry, Microsoft and Samsung — over the last decade, starting before Facebook apps were widely available on smartphones, company officials said. The deals allowed Facebook to expand its reach and let device makers offer customers popular features of the social network, such as messaging, “like” buttons and address books.
+
+But the partnerships, whose scope has not previously been reported, raise concerns about the company’s privacy protections and compliance with a 2011 consent decree with the Federal Trade Commission. Facebook allowed the device companies access to the data of users’ friends without their explicit consent, even after declaring that it would no longer share such information with outsiders. Some device makers could retrieve personal information even from users’ friends who believed they had barred any sharing, The New York Times found.
+
+Most of the partnerships remain in effect, though Facebook began winding them down in April. The company came under intensifying scrutiny by lawmakers and regulators after news reports in March that a political consulting firm, Cambridge Analytica, misused the private information of tens of millions of Facebook users.
+
+In the furor that followed, Facebook’s leaders said that the kind of access exploited by Cambridge in 2014 was cut off by the next year, when Facebook prohibited developers from collecting information from users’ friends. But the company officials did not disclose that Facebook had exempted the makers of cellphones, tablets and other hardware from such restrictions.
+
+“You might think that Facebook or the device manufacturer is trustworthy,” said Serge Egelman, a privacy researcher at the University of California, Berkeley, who studies the security of mobile apps. “But the problem is that as more and more data is collected on the device — and if it can be accessed by apps on the device — it creates serious privacy and security risks.”
+
+In interviews, Facebook officials defended the data sharing as consistent with its privacy policies, the F.T.C. agreement and pledges to users. They said its partnerships were governed by contracts that strictly limited use of the data, including any stored on partners’ servers. The officials added that they knew of no cases where the information had been misused.
+
